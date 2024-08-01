@@ -3,80 +3,128 @@
   "WorkspaceRootPath": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\moncc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:moncc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\data\\migrations\\20240801132733_dd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:data\\migrations\\20240801132733_dd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\data\\migrations\\20240728182355_settingsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:data\\migrations\\20240728182355_settingsdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\authencation\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\authencation\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\moncc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:moncc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|d:\\study\\applied programming and design principles\\asm\\moncc\\moncc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{713DFA91-6A9D-48F8-BF6F-32F9F4612CA8}|Moncc.csproj|solutionrelative:moncc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,112 +134,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Index.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:53:32.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:51:18.98Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Create.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:50:59.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Edit.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:49:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Create.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:48:55.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:47:17.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAewA8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T10:25:00.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T17:20:49.24Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\login\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\login\\Index.cshtml",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\login\\Index.cshtml",
-              "RelativeToolTip": "Views\\login\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Access\\Login.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T04:26:39.378Z",
+              "WhenOpened": "2024-08-01T11:12:00.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Moncc",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Moncc.csproj",
-              "RelativeDocumentMoniker": "Moncc.csproj",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Moncc.csproj",
-              "RelativeToolTip": "Moncc.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-30T04:19:28.269Z"
+              "Title": "20240801132733_dd.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Data\\Migrations\\20240801132733_dd.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240801132733_dd.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Data\\Migrations\\20240801132733_dd.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240801132733_dd.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:27:34.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAwDQAAAAAAAAA",
+              "DocumentIndex": 15,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccessController.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Controllers\\AccessController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T04:18:26.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T10:51:46.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAKAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T00:54:35.029Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ClassesController.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\ClassesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\ClassesController.cs",
-              "RelativeToolTip": "Controllers\\ClassesController.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAswAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T04:14:29.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\Login.cs",
-              "RelativeDocumentMoniker": "Controllers\\Login.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\Login.cs",
-              "RelativeToolTip": "Controllers\\Login.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T04:25:07.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "Controllers\\AccountsController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAkwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T10:09:44.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T04:22:40.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Account.cs",
               "RelativeDocumentMoniker": "Models\\Account.cs",
@@ -199,24 +279,107 @@
               "RelativeToolTip": "Models\\Account.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T04:06:50.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T04:06:50.505Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Models\\Course.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Course.cs",
-              "RelativeToolTip": "Models\\Course.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAewA8AAAAGAAAA",
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupsController.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Controllers\\GroupsController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T17:20:49.24Z"
+              "WhenOpened": "2024-08-01T13:28:43.183Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T00:57:20.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAUwHgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T03:46:19.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:25:00.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Models\\Group.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Group.cs",
+              "RelativeToolTip": "Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:09:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:03:23.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Authencation\\Authentication.cs",
+              "RelativeDocumentMoniker": "Models\\Authencation\\Authentication.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Authencation\\Authentication.cs",
+              "RelativeToolTip": "Models\\Authencation\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:09:57.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240728182355_SettingsDetails.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Data\\Migrations\\20240728182355_SettingsDetails.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240728182355_SettingsDetails.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Data\\Migrations\\20240728182355_SettingsDetails.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240728182355_SettingsDetails.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:15:19.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -224,49 +387,11 @@
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T03:09:47.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T03:09:47.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T03:10:23.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "Controllers\\RolesController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T04:06:41.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Class.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Class.cs",
-              "RelativeDocumentMoniker": "Models\\Class.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Class.cs",
-              "RelativeToolTip": "Models\\Class.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T03:40:08.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
@@ -278,43 +403,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "Controllers\\CoursesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 22,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T03:46:19.541Z"
+              "WhenOpened": "2024-07-30T10:09:44.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T03:10:23.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "Views\\Users\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABVAAAA",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T00:57:20.221Z"
+              "WhenOpened": "2024-08-01T10:42:46.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkBAAAAAAAAAAAAABsBAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T00:54:35.029Z"
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:18:26.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:06:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Moncc.csproj",
               "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Moncc.csproj",
               "RelativeDocumentMoniker": "Moncc.csproj",
@@ -323,6 +472,41 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-29T03:36:41.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:36:51.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Moncc",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Moncc.csproj",
+              "RelativeDocumentMoniker": "Moncc.csproj",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\Moncc.csproj",
+              "RelativeToolTip": "Moncc.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T04:19:28.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Study\\Applied Programming and Design Principles\\ASM\\Moncc\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-31T19:02:24.992Z"
             }
           ]
         }

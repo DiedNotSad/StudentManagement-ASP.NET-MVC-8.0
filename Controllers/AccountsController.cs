@@ -19,6 +19,7 @@ namespace Moncc.Controllers
             _context = context;
         }
 
+
         // GET: Accounts
         public async Task<IActionResult> Index()
         {

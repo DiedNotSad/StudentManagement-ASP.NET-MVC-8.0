@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Moncc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4076d431ca094745d11eb04a398e00f1a2a570b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f4112e275760463b819cd29946082ac4b659d12")]
 [assembly: System.Reflection.AssemblyProductAttribute("Moncc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Moncc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

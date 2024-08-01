@@ -1,4 +1,6 @@
-﻿    <!DOCTYPE html>
+﻿   
+
+ <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -44,7 +46,7 @@
                         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
                     </li>
                     <li class="nav-item d-none d-sm-inline-block">
-                        <a href="index3.html" class="nav-link">Home</a>
+                        <a asp-controller="Home" class="nav-link">Home</a>
                     </li>
                     <li class="nav-item d-none d-sm-inline-block">
                         <a href="#" class="nav-link">Contact</a>
@@ -131,7 +133,7 @@
                                    IgnoreBody();
                                }
                             <li class="nav-item menu-open">
-                                <a href="#" class="nav-link active">
+                            <a asp-controller="Home" asp-action="Index" class="nav-link">
                                     <i class="nav-icon fas fa-tachometer-alt"></i>
                                     <p>
                                         Dashboard
@@ -156,10 +158,10 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a asp-controller="Classes" asp-action="Index" class="nav-link">
+                                <a asp-controller="Groups" asp-action="Index" class="nav-link">
                                     <i class="nav-icon fas fa-chart-pie"></i>
                                     <p>
-                                        Class rooms
+                                        Groups
                                     </p>
                                 </a>
                             </li>
@@ -199,8 +201,8 @@
                 <!-- Main content -->
                 <section class="content">
                     <div class="container-fluid">
-                        @RenderBody();
-                    
+                        
+                    @RenderBody()
                     </div><!-- /.container-fluid -->
                 </section>
                 <!-- /.content -->
